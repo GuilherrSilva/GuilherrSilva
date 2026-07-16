@@ -1,6 +1,6 @@
 <div align="center">
 
-# GuilherrSilva 👋
+<h2 align="center"> GuilherrSilva 👋 </h2>
 
 ### Desenvolvedor Back-End em formação 
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tecnologias
+<h2 align="center"> Tecnologias 🛠️ </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+<h2 align="center"> 📊 Estatísticas do GitHub </h2> 
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilherrSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 📌 Projeto
+<h2 align="center"> 📌 Projeto </h2>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ API de encurtamento de links construída com FastAPI e SQLite — com interface 
 
 ---
 
-### 📫 Contato
+<h2 align="center"> 📫 Contato </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermegregattisilva-54ba55280/" target="_blank">

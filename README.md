@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 <h2 align="center"> Tecnologias 🛠️ </h2>
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
----
+
 
 <h2 align="center"> 📊 Estatísticas do GitHub </h2> 
 
@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilherrSilva&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
 </div>
 
----
+
 
 <h2 align="center"> 📌 Projeto </h2>
 
@@ -48,7 +48,7 @@ API de encurtamento de links construída com FastAPI e SQLite — com interface 
 
 🔗 [Ver demo ao vivo](https://url-shortener-api-production-1a73.up.railway.app)
 
----
+
 
 <h2 align="center"> 📫 Contato </h2>
 

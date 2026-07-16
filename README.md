@@ -38,7 +38,7 @@
 
 [![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=GuilherrSilva)](https://github.com/GuilherrSilva)
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilherrSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuilherrSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilherrSilva&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
 
 </div>
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![Encurtador de URLs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GuilherrSilva&repo=url-shortener-api&theme=tokyonight&hide_border=true)](https://github.com/GuilherrSilva/url-shortener-api)
+[![Encurtador de URLs](https://github-stats-extended.vercel.app/api/pin/?username=GuilherrSilva&repo=url-shortener-api&theme=tokyonight&hide_border=true)](https://github.com/GuilherrSilva/url-shortener-api)
 
 </div>
 

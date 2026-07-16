@@ -1,35 +1,63 @@
-# GuilherrSilva
+<div align="center">
 
-Desenvolvedor Back-End em formação, cursando **Análise e Desenvolvimento de Sistemas - 2º Semestre**.
+# GuilherrSilva 👋
 
-Atualmente aprofundando conhecimentos em Python e desenvolvimento de APIs, com foco em construir projetos práticos que unam backend sólido a boas práticas de engenharia (testes, segurança, deploy).
+### Desenvolvedor Back-End em formação 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aprendendo+Python+%26+FastAPI;Construindo+projetos+de+backend+na+pr%C3%A1tica" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ### 🛠️ Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
 
-### 📌 Projeto 
+### 📊 Estatísticas do GitHub
 
-**[🔗 Encurtador de URLs](https://github.com/GuilherrSilva/url-shortener-api)**
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilherrSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherrSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilherrSilva&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
+</div>
+
+---
+
+### 📌 Projeto
+
+<div align="center">
+
+[![Encurtador de URLs](https://github-readme-stats.vercel.app/api/pin/?username=GuilherrSilva&repo=url-shortener-api&theme=tokyonight&hide_border=true)](https://github.com/GuilherrSilva/url-shortener-api)
+
+</div>
+
 API de encurtamento de links construída com FastAPI e SQLite — com interface web, rastreamento de cliques, rate limiting e testes automatizados.
+
+🔗 [Ver demo ao vivo](https://url-shortener-api-production-1a73.up.railway.app)
 
 ---
 
 ### 📫 Contato
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/guilhermegregattisilva-54ba55280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuilherrSilva&style=for-the-badge&color=2E9EF7" alt="Contador de visitas"/>
+</div>

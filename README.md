@@ -2,7 +2,7 @@
 
 <h2 align="center"> GuilherrSilva 👋 </h2>
 
-### Desenvolvedor Back-End em formação 
+<h2 align="center"> Desenvolvedor Back-End em formação </h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aprendendo+Python+%26+FastAPI;Construindo+projetos+de+backend+na+pr%C3%A1tica" alt="Typing SVG" />
 
@@ -26,7 +26,7 @@
 <h2 align="center"> 📊 Estatísticas do GitHub </h2> 
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilherrSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=GuilherrSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=...)" alt="Estatísticas do GitHub"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherrSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 

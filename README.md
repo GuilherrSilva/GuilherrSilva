@@ -26,7 +26,7 @@
 <h2 align="center"> 📊 Estatísticas do GitHub </h2> 
 
 <div align="center">
-  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=GuilherrSilva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=...)" alt="Estatísticas do GitHub"/>
+  <img height="165" src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GuilherrSilva)](https://github.com/stats-organization/github-stats-extended)" alt="Estatísticas do GitHub"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilherrSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 

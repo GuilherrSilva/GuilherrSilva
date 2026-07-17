@@ -39,10 +39,9 @@
 <div align="center">
   
 [![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=GuilherrSilva)](https://github.com/GuilherrSilva)
-<div display="inline-block"
-  align="center">
-<img  height="230" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuilherrSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-<img  height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilherrSilva&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
+<div align="center">
+<img height="230" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuilherrSilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+<img height="230" src="https://github-readme-streak-stats-eight.vercel.app?user=GuilherrSilva&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
 </div>
 </div>
 
